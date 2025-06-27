@@ -10,5 +10,6 @@ public class Lab002_Comments {
         Multi-Line comment
          */
         System.out.println("This is a multi-line comment");
+        //program ends
     }
 }
