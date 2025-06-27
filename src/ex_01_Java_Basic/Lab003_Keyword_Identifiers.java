@@ -7,6 +7,6 @@ public class Lab003_Keyword_Identifiers {
         System.out.println("package, public, class, static, void are all keywords here");
         //Identifiers are names that will be used to identify the programming elements like classes, methods, variables, etc uniquely.
         System.out.println("ex_01_Java_Basic, Lab003_Keyword_Identifiers, args are all identifiers here");
-
+        //program ends
     }
 }
